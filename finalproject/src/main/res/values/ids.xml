@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BookFlipPageTransformer에서 그림자 오버레이를 View.setTag()로 캐싱하기 위한 id -->
+    <item name="tag_shadow_overlay" type="id"/>
+</resources>

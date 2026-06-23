@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Splash 전용 색상 -->
+    <color name="splash_bg">#1A237E</color>          <!-- 진한 인디고 배경 -->
+    <color name="splash_text">#FFFFFF</color>          <!-- 흰색 텍스트 -->
+    <color name="splash_text_sub">#90CAF9</color>      <!-- 연한 파란색 서브텍스트 -->
+
+    <!-- 앱 전체 테마 색상 -->
+    <color name="colorPrimary">#1A237E</color>
+    <color name="colorPrimaryDark">#0D1B6E</color>
+    <color name="colorAccent">#FF6F00</color>
+</resources>
